@@ -9,7 +9,9 @@
 #### 2.[MainTopicsExtractor](https://github.com/Sdmitriss/MainTopicsExtractor)
 MainTopicsExtractor выделяет главные темы из чат-сообщений: преобразует данные из *.json в таблицу, выполняет кластеризацию с BERTopic и использует LLM модели (ChatYandexGPT в облаке или YandexGPT локально) для выделения тем. Результаты сохраняются в .xlsx.
 
-#### 3. [A_money(Прогнозирование оттока клиентов, табличные данные)](.https://github.com/Sdmitriss/A_money)
+#### 3. [A_money](https://github.com/Sdmitriss/A_money)
+
+Проект по прогнозированию оттока клиентов (табличные данные).
 
 #### 4. [DonorSearch](https://github.com/Sdmitriss/DonorSearch)<br>
 Проект по разработке микросервиса для автоматической ориентации медицинских документов с использованием модели ResNet для классификации ориентации. Реализован на FastAPI и Docker,
