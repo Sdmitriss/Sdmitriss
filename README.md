@@ -9,19 +9,21 @@
 #### 2.[MainTopicsExtractor](https://github.com/Sdmitriss/MainTopicsExtractor)
 MainTopicsExtractor выделяет главные темы из чат-сообщений: преобразует данные из *.json в таблицу, выполняет кластеризацию с BERTopic и использует LLM модели (ChatYandexGPT в облаке или YandexGPT локально) для выделения тем. Результаты сохраняются в .xlsx.
 
-#### 3. [DonorSearch](https://github.com/Sdmitriss/DonorSearch)<br>
+#### 3. [A_money(Прогнозирование оттока клиентов, табличные данные)](.https://github.com/Sdmitriss/A_money)
+
+#### 4. [DonorSearch](https://github.com/Sdmitriss/DonorSearch)<br>
 Проект по разработке микросервиса для автоматической ориентации медицинских документов с использованием модели ResNet для классификации ориентации. Реализован на FastAPI и Docker,
 принимает изображения и возвращает предсказания о вертикальной ориентации.
 
-#### 4. [RNN_Char_Gen](https://github.com/Sdmitriss/RNN_Char_Gen)
+#### 5. [RNN_Char_Gen](https://github.com/Sdmitriss/RNN_Char_Gen)
 Проект реализует символьную рекуррентную нейронную сеть (RNN) для генерации текста на основе корпуса.
 Модель обучается на текстах и генерирует новые последовательности. Включает FastAPI приложение для работы с моделью через API.
 
-#### 5. [Practicum_Projects](https://github.com/Sdmitriss/Practicum_Projects)
+#### 6. [Practicum_Projects](https://github.com/Sdmitriss/Practicum_Projects)
 Репозиторий содержит 13 проектов в рамках курса "Специалист по Data Science" от Яндекс Практикума.
 Проекты охватывают задачи анализа данных, машинного обучения и прогнозирования для различных бизнес-задач, включая кредитный скоринг, анализ цен недвижимости, 
 прогнозирование покупательской активности, предсказание возраста по фото, модерацию комментариев и другие.
 
-#### 6. [Kaggle](https://github.com/Sdmitriss/Kaggle)
+#### 7. [Kaggle](https://github.com/Sdmitriss/Kaggle)
 В этом репозитории я собираю свои проекты с платформы Kaggle. Здесь вы найдете решения задач по анализу данных и машинному обучению.
 Мой профиль на Kaggle: [My Kaggle Profile](https://www.kaggle.com/dmitriss)
