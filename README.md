@@ -1,10 +1,10 @@
 #### 1. [RAGforLoymax)(https://github.com/Sdmitriss/RAGforLoymax)
-В проекте реализована архитектура Retrieval-Augmented Generation (RAG),обеспечивающая расширение ответов модели за счёт поиска информации в локальной базе данных.
-Компоненты реализации RAG::
--Векторное хранилище: Faiss
--Модель эмбеддингов: cointegrated/LaBSE-en-ru
--Основная LLM: YandexGPT-5-Lite-8B-instruct-Q4_K_M (guff)
--API-интерфейс: FastAPI
+В проекте реализована архитектура Retrieval-Augmented Generation (RAG),обеспечивающая расширение ответов модели за счёт поиска информации в локальной базе данных.<br>
+Компоненты реализации RAG:
+- Векторное хранилище: Faiss
+- Модель эмбеддингов: cointegrated/LaBSE-en-ru
+- Основная LLM: YandexGPT-5-Lite-8B-instruct-Q4_K_M (guff)
+- API-интерфейс: FastAPI
 
 #### 2.[MainTopicsExtractor](https://github.com/Sdmitriss/MainTopicsExtractor)
 MainTopicsExtractor выделяет главные темы из чат-сообщений: преобразует данные из *.json в таблицу, выполняет кластеризацию с BERTopic и использует LLM модели (ChatYandexGPT в облаке или YandexGPT локально) для выделения тем. Результаты сохраняются в .xlsx.
