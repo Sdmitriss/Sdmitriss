@@ -12,6 +12,7 @@ MainTopicsExtractor выделяет главные темы из чат-соо�
 #### 3. [A_money](https://github.com/Sdmitriss/A_money)
 
 Проект по прогнозированию оттока клиентов (табличные данные).
+Исследовательский проект представлен в файле money-base.ipynb, где реализованы загрузка данных , предобработка, исследовательский анализ данных, feature engineering. Модели: LGBM, XGBoost и CatBoost, стекинг моделей (lgbm, xgboost), а также анализ значимости признаков (feature importance analysis). Подбор гиперпараметров (hyperparameter tuning) для моделей выполнен с помощью Optuna.
 
 #### 4. [DonorSearch](https://github.com/Sdmitriss/DonorSearch)<br>
 Проект по разработке микросервиса для автоматической ориентации медицинских документов с использованием модели ResNet для классификации ориентации. Реализован на FastAPI и Docker,
