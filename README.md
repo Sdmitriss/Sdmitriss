@@ -1,4 +1,4 @@
-#### 1. [RAGforLoymax](https://github.com/Sdmitriss/RAGforLoymax)
+#### 1. [RAGforData_Acquisition](https://github.com/Sdmitriss/RAGforData_Acquisition)
 В проекте реализована архитектура Retrieval-Augmented Generation (RAG),обеспечивающая расширение ответов модели за счёт поиска информации в локальной базе данных.<br>
 Компоненты реализации RAG:
 - Векторное хранилище: Faiss
